@@ -1,0 +1,275 @@
+{
+    "id":  "MXEL2202211218",
+    "metadata": {
+        "title":  "국립국어원 온라인 대화 말뭉치 추출 MXEL2202211218",
+        "creator":  "국립국어원",
+        "distributor":  "국립국어원",
+        "year":  "2022",
+        "category":  "온라인 대화 > 2인 대화",
+        "annotation_level":  "개체명 분석",
+        "sampling":  "실시간 대화"
+    },
+    "document": [
+        {
+            "id":  "MDRW2100000318.1",
+            "metadata": {
+                "title":  "온라인 대화",
+                "author":  "개인 대화 참여자",
+                "publisher":  "심심이",
+                "date":  "20210819",
+                "topic":  "가사 및 가족",
+                "speaker": [
+                    {
+                        "id":  "1",
+                        "age":  "30대",
+                        "occupation":  "사무 종사자",
+                        "sex":  "여성",
+                        "birthplace":  "대구",
+                        "principal_residence":  "대구",
+                        "current_residence":  "대구",
+                        "device":  "PC(데스크탑/노트북)",
+                        "keyboard":  "2벌식(쿼티)"
+                    },
+                    {
+                        "id":  "2",
+                        "age":  "30대",
+                        "occupation":  "경영/관리직",
+                        "sex":  "남성",
+                        "birthplace":  "대구",
+                        "principal_residence":  "대구",
+                        "current_residence":  "대구",
+                        "device":  "스마트폰",
+                        "keyboard":  "천지인"
+                    }
+                ],
+                "setting": {
+                    "relation":  "가족>부부",
+                    "intimacy":  5,
+                    "contact_frequency":  "(거의) 매일 연락한다."
+                }
+            },
+            "sentence": [
+                {
+                    "id":  "MDRW2100000318.1.1",
+                    "form":  "치킨시켜먹이까?",
+                    "word": [
+                        {
+                            "id":  1,
+                            "form":  "치킨시켜먹이까?",
+                            "begin":  0,
+                            "end":  8
+                        }
+                    ],
+                    "NE": [
+                        {
+                            "id":  1,
+                            "form":  "치킨",
+                            "label":  "CV_FOOD",
+                            "begin":  0,
+                            "end":  2,
+                            "kid":  "06160000004362",
+                            "wikiid":  "1811609",
+                            "URL":  "https
+                        }
+                    ]
+                },
+                {
+                    "id":  "MDRW2100000318.1.2",
+                    "form":  "시켜먹던지 난 간단히 먹었어",
+                    "word": [
+                        {
+                            "id":  1,
+                            "form":  "시켜먹던지",
+                            "begin":  0,
+                            "end":  5
+                        },
+                        {
+                            "id":  2,
+                            "form":  "난",
+                            "begin":  6,
+                            "end":  7
+                        },
+                        {
+                            "id":  3,
+                            "form":  "간단히",
+                            "begin":  8,
+                            "end":  11
+                        },
+                        {
+                            "id":  4,
+                            "form":  "먹었어",
+                            "begin":  12,
+                            "end":  15
+                        }
+                    ],
+                    "NE":  []
+                },
+                {
+                    "id":  "MDRW2100000318.1.3",
+                    "form":  "name3이 먹고싶다니까",
+                    "word": [
+                        {
+                            "id":  1,
+                            "form":  "name3이",
+                            "begin":  0,
+                            "end":  6
+                        },
+                        {
+                            "id":  2,
+                            "form":  "먹고싶다니까",
+                            "begin":  7,
+                            "end":  13
+                        }
+                    ],
+                    "NE":  []
+                },
+                {
+                    "id":  "MDRW2100000318.1.4",
+                    "form":  "깊콘있으니깐 뿌링클",
+                    "word": [
+                        {
+                            "id":  1,
+                            "form":  "깊콘있으니깐",
+                            "begin":  0,
+                            "end":  6
+                        },
+                        {
+                            "id":  2,
+                            "form":  "뿌링클",
+                            "begin":  7,
+                            "end":  10
+                        }
+                    ],
+                    "NE": [
+                        {
+                            "id":  1,
+                            "form":  "뿌링클",
+                            "label":  "CV_FOOD",
+                            "begin":  7,
+                            "end":  10,
+                            "kid":  "06160000002443",
+                            "wikiid":  "NA",
+                            "URL":  "NA"
+                        }
+                    ]
+                },
+                {
+                    "id":  "MDRW2100000318.1.5",
+                    "form":  "암꺼나 먹으세요",
+                    "word": [
+                        {
+                            "id":  1,
+                            "form":  "암꺼나",
+                            "begin":  0,
+                            "end":  3
+                        },
+                        {
+                            "id":  2,
+                            "form":  "먹으세요",
+                            "begin":  4,
+                            "end":  8
+                        }
+                    ],
+                    "NE":  []
+                },
+                {
+                    "id":  "MDRW2100000318.1.6",
+                    "form":  "네 ~~~~~  일요일은 쉬나",
+                    "word": [
+                        {
+                            "id":  1,
+                            "form":  "네",
+                            "begin":  0,
+                            "end":  1
+                        },
+                        {
+                            "id":  2,
+                            "form":  "~~~~~",
+                            "begin":  2,
+                            "end":  7
+                        },
+                        {
+                            "id":  3,
+                            "form":  "일요일은",
+                            "begin":  9,
+                            "end":  13
+                        },
+                        {
+                            "id":  4,
+                            "form":  "쉬나",
+                            "begin":  14,
+                            "end":  16
+                        }
+                    ],
+                    "NE": [
+                        {
+                            "id":  1,
+                            "form":  "일요일",
+                            "label":  "DT_DAY",
+                            "begin":  9,
+                            "end":  12,
+                            "kid":  "07010000000421",
+                            "wikiid":  "9197",
+                            "URL":  "https
+                        }
+                    ]
+                },
+                {
+                    "id":  "MDRW2100000318.1.7",
+                    "form":  "응 일요일은 쉬어",
+                    "word": [
+                        {
+                            "id":  1,
+                            "form":  "응",
+                            "begin":  0,
+                            "end":  1
+                        },
+                        {
+                            "id":  2,
+                            "form":  "일요일은",
+                            "begin":  2,
+                            "end":  6
+                        },
+                        {
+                            "id":  3,
+                            "form":  "쉬어",
+                            "begin":  7,
+                            "end":  9
+                        }
+                    ],
+                    "NE": [
+                        {
+                            "id":  1,
+                            "form":  "일요일",
+                            "label":  "DT_DAY",
+                            "begin":  2,
+                            "end":  5,
+                            "kid":  "07010000000421",
+                            "wikiid":  "9197",
+                            "URL":  "https
+                        }
+                    ]
+                },
+                {
+                    "id":  "MDRW2100000318.1.8",
+                    "form":  "거기 가나?",
+                    "word": [
+                        {
+                            "id":  1,
+                            "form":  "거기",
+                            "begin":  0,
+                            "end":  2
+                        },
+                        {
+                            "id":  2,
+                            "form":  "가나?",
+                            "begin":  3,
+                            "end":  6
+                        }
+                    ],
+                    "NE":  []
+                },
+            ]
+        }
+    ]
+}
